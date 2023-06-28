@@ -17,7 +17,8 @@ export OPENAI_API_KEY=<your-api-key>
 - 下载 cli.sh 脚本：
 
 ```
-curl -O https://raw.githubusercontent.com/openai/cli/master/cli.sh
+curl -O https://raw.githubusercontent.com/a8851625/cli-helper/main/cli.sh
+
 将脚本移动到 /usr/local/bin 目录中：
 
 sudo mv cli.sh /usr/local/bin/cli
